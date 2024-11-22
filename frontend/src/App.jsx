@@ -4,7 +4,7 @@ import SignUpPage from "./Pages/SignUpPage.jsx";
 import LoginPage from "./Pages/LoginPage.jsx";
 import SettingPage from "./Pages/SettingPage.jsx";
 import ProfilePage from "./Pages/ProfilePage.jsx";
-import Navbar from "./componets/Navbar.jsx";
+import Navbar from "./Componets/Navbar.jsx";
 import { Loader } from "lucide-react";
 import { useAuthStore } from "./store/useAuthStore.js";
 import { useEffect } from "react";
